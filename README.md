@@ -10,6 +10,6 @@ de actividades
 >solo anoto los dias menciondos
 
 ````diff
-+ Si te gusta mi diario :+1:
-- Si no te gusta :-1:
++ Si te gusta mi diario fino
+- Si no te gusta pos que mas pue jaja
 ````
